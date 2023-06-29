@@ -28,5 +28,5 @@ Education:
 BSEU, speciality: Economist: (01.09.16-01.07.20);
 RS Schools Course «JavaScript/Front-end. Stage 0» (in progress).
 
-Languages
+Languages:
 English (A2)

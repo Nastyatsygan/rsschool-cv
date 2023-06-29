@@ -19,7 +19,7 @@ VS Code
 Git
 
 
-Experience
+Experience:
 April 2021- April 2023
 Center for providing budgetary organizations, Kopyl - Accountant
 

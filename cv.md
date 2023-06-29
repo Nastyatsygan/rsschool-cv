@@ -24,7 +24,7 @@ April 2021- April 2023
 Center for providing budgetary organizations, Kopyl - Accountant
 
 
-Education
+Education:
 BSEU, speciality: Economist: (01.09.16-01.07.20);
 RS Schools Course «JavaScript/Front-end. Stage 0» (in progress).
 
